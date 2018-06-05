@@ -7,7 +7,7 @@ library(ggrepel)
 library(RColorBrewer)
 library(reshape2)
 
-load("U:/Gottwald_Lab/Shuo Zhang/CA sampling efficacy/Code/HLB cluster analysis.RData")
+load("U:/Gottwald_Lab/Shuo Zhang/CA sampling efficacy/Code/HLB cluster analysis.RData") ## load work space
 
 ## https://gis.stackexchange.com/questions/17638/how-to-cluster-spatial-data-in-r
 ## https://gis.stackexchange.com/questions/64392/find-clusters-of-points-based-distance-rule
